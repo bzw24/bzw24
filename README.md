@@ -6,16 +6,19 @@
 ## 🎓 I'm an electrical/ mechanical engineer turned software engineer
 
 ## ✉ Find me on:
-<br />
-<p align="left">
- <a href="https://www.linkedin.com/in/bruce-wong-24000" target="_blank" rel="noopener noreferrer"> 
-  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
- </a>
- <a href="mailto:brucewong24@gmail.com"> 
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' align='left' />
- </a>
-</p>
-<br />
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/bruce-wong-24000/" target="_blank">
+  <img src="https://img.shields.io/badge/-Bruce%20Wong-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<!-- Github -->
+<a href="https://www.github.com/bzw24">
+  <img src="https://img.shields.io/badge/bzw24-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<!-- Email -->
+<a href="mailto:brucewong24@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-brucewong%40gmail.com-1152ba?style=for-the-badge"/>
+</a>
+<br><br>
 
 ## 🧰 Languages and Tools:
 <br />
