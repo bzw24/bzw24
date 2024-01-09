@@ -5,12 +5,6 @@
 
 ## 🎓 I'm an electrical/ mechanical engineer turned software engineer
 
-- 🚀 
-- 🌿 
-- 🤝 
-- 🗨️ 
-- ✨
-
 ## ✉ Find me on:
 <br />
 <p align="left">
