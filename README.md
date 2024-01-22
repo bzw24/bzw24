@@ -1,4 +1,4 @@
-## Hi there 👋 I'm bzw24 but you can call me Bruce 😁 
+## Hi there 👋 I'm bzw24 but you can call me Bruce
 <div>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=bzw24.bzw24"/> <span><img src="https://img.shields.io/github/followers/bzw24?label=Followers&logo=Github"/></span>
 </div>
