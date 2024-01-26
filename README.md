@@ -16,7 +16,7 @@
 </a>
 <!-- Email -->
 <a href="mailto:brucewong24@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-brucewong%40gmail.com-1152ba?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EMAIL-brucewong24@gmail.com-1152ba?style=for-the-badge"/>
 </a>
 <br><br>
 
