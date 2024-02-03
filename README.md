@@ -31,8 +31,8 @@
 <h3>🏆 My Github Stats:</h3>
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=bzw24&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=bzw24&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github" />
+<a href="https://github-readme-stats.vercel.app/api?username=bzw24&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=stars">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=bzw24&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=stars" />
 </a>
  <!--
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bzw24&hide=php&theme=tokyonight">
