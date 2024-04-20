@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm bzw24 but you can call me Bruce
 <div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=bzw24.bzw24"/> <span><img src="https://img.shields.io/github/followers/bzw24?label=Followers&logo=Github"/></span>
+<img src="https://komarev.com/ghpvc/?username=bzw24&color=blue&style=flat-square&base=1400"/> <span><img src="https://img.shields.io/github/followers/bzw24?label=Followers&logo=Github"/></span>
 </div>
 
 ## 🎓 I'm an electrical/ mechanical engineer turned software engineer
